@@ -20,14 +20,13 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-
+//hello chakri how are you
 /**
  * Base {@link HealthAggregator} implementation to allow subclasses to focus on
  * aggregating the {@link Status} instances and not deal with contextual details etc.
  *
  * @author Christian Dupuis
- * @author Vedran Pavic
- * @since 1.1.0
+ * @author Vedran Pav
  */
 public abstract class AbstractHealthAggregator implements HealthAggregator {
 
